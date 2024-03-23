@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986931717318",
+    "project_id": "fcmtest-6595f",
+    "storage_bucket": "fcmtest-6595f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986931717318:android:05b59e37f211b96fd2a3c7",
+        "android_client_info": {
+          "package_name": "com.hectrofortuna.fcmtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB9vgZ3nls9HzRvA5AISWPsLW3IDPP7ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
